@@ -1,0 +1,1 @@
+L'utilisateur n°<?= $id; ?> vient de te faire un versement de <?= $total_mail; ?> €. Maintenant ton solde est de <?= $solde_recep; ?> € !
